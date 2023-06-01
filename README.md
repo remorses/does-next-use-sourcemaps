@@ -4,7 +4,7 @@ to reproduce:
 -   `pnpm dev`
 -   open browser
 
-stack trace is wrong on node
+stack trace is wrong in Nodejs
 
 ```
 error Error: ho

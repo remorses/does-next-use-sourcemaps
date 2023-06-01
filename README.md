@@ -1,3 +1,9 @@
+to reproduce:
+
+-   `pnpm i`
+-   `pnpm dev`
+-   open browser
+
 stack trace is wrong on node
 
 ```
